@@ -22,8 +22,8 @@ function dec(n){
   return n--
 }
 
-function divide(, b){
-  return divide(a, b)
+function divide(a, b)
+  return (b / a);
 }
 
 function multiply(a, b){
