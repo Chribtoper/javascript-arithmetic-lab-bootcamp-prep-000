@@ -23,7 +23,7 @@ function dec(n){
 }
 
 function divide(a, b){
-  return b / a
+  return  b/ a
 }
 
 function multiply(a, b){
