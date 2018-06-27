@@ -6,12 +6,12 @@ function preserveDecimal(n){
   return parseFloat(n)
 }
 
-function addition(a, b){
-  return add(a, b)
+function add(a, b){
+  return a + b
 }
 
-function subtractNum(a, b){
-  return subtract(a, b)
+function subtract(a, b){
+  return b - a
 }
 
 function inc(n){
