@@ -11,7 +11,7 @@ function add(a, b){
 }
 
 function subtract(a, b){
-  return b - a
+  return a - b
 }
 
 function inc(n){
@@ -22,10 +22,10 @@ function dec(n){
   return n--
 }
 
-function division(a, b){
+function divide(, b){
   return divide(a, b)
 }
 
-function multiplication(a, b){
-  return multiply(a, b)
+function multiply(a, b){
+  return a * b
 }
